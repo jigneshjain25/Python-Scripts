@@ -15,10 +15,8 @@ class STirc(irc.IRCClient):
 
     def joined(self, channel):        
         print "Joined %s." % (channel)
-        #self.msg('NickServ','identify fake400')
         self.factory.spam_nick=self.factory.spam_nick+' ';
         for i in range(0,30):
-            #self.msg('tan','tan'*i,200)
             self.say(channel,self.factory.spam_nick*i)
     
 class STircFactory(protocol.ClientFactory):
