@@ -1,7 +1,7 @@
-Python-Scripts
+Random Scripts
 ==============
 
-contains random python scripts
+contains random scripts
 
 ======spammer.py======
 
