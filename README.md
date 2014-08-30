@@ -24,3 +24,8 @@ Happy Spying!!
 ====make_100====
 
 This is a small program I wrote for this task here: http://qr.ae/G5CX5
+
+
+====sudoku====
+
+Sudoku solver using backtracking
