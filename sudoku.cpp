@@ -55,6 +55,7 @@ int main(){
     puts("* -- total 9 input lines");
     puts("* -- each input line should contain only 9 chars (no spaces)");
     puts("* -- char can be either 1-9 or a '.' (signifies unknown number)");
+    puts("* -- ensure there are no trailing/leading whitespaces");
     puts("*");
     puts("***************************************************************\n");
 
@@ -69,8 +70,8 @@ int main(){
         puts("");
         rep(i,9){
             rep(j,9)
-                printf("%d ",board[i][j]);
-            puts("");
+                printf(" %d |",board[i][j]);
+            puts("\n------------------------------------");
         }
     }
     else
