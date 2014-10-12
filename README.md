@@ -3,13 +3,10 @@ Random Scripts
 
 contains random scripts
 
-======spammer.py======
+====Codechef Rank Scrapper====
 
-It is a simple irc bot, which spams a irc channel using a given nick. It requires twisted python modules, which on linux can be installed as 'sudo apt-get install python-twisted'
+This script I wrote to find out rankings along with team name and college name after ACM ICPC Amritapuri first online round
 
-Usage: 'python spammer.py nick_name_of_spammer channel_name spam_nick_name'
-
-The default server is irc.dejatoons.net
 
 ======JSpy======
 
@@ -21,9 +18,19 @@ If you wish to run these, just make sure you change the IP address in JClient.ja
 
 Happy Spying!!
 
+
 ====make_100====
 
 This is a small program I wrote for this task here: http://qr.ae/G5CX5
+
+
+======spammer.py======
+
+It is a simple irc bot, which spams a irc channel using a given nick. It requires twisted python modules, which on linux can be installed as 'sudo apt-get install python-twisted'
+
+Usage: 'python spammer.py nick_name_of_spammer channel_name spam_nick_name'
+
+The default server is irc.dejatoons.net
 
 
 ====sudoku====
@@ -31,6 +38,7 @@ This is a small program I wrote for this task here: http://qr.ae/G5CX5
 Sudoku solver using backtracking
 
 
-====Codechef Rank Scrapper====
+====Techno Spammer====
 
-This script I wrote to find out rankings along with team name and college name after ACM ICPC Amritapuri first online round
+This is a fun script I wrote to make bulk registrations on technovanza site as they didnt have any human verfication step while singing up :D
+
