@@ -29,3 +29,8 @@ This is a small program I wrote for this task here: http://qr.ae/G5CX5
 ====sudoku====
 
 Sudoku solver using backtracking
+
+
+====Codechef Rank Scrapper====
+
+This script I wrote to find out rankings along with team name and college name after ACM ICPC Amritapuri first online round
