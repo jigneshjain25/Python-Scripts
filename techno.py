@@ -5,7 +5,7 @@ def randomword(length):
 
 cnt=0
 while (1==1):
-    email = randomword(random.randint(4,10)) + '@' + randomword(4) + '.com'
+    email = randomword(random.randint(4,10)) + '@' + 'ibibo'+ '.com'
     payload= {'action' : 'signup',
           'email' : email,
           'passw' : '654321',
@@ -20,6 +20,8 @@ while (1==1):
 
     r = requests.post('http://technovanza.org/signinsignup.php',data=payload)
 
-    if (r.text == "success"):
+    if ("successfully registered" in r.text):
         cnt += 1
-    print r.text, cnt, email
+        print "success", cnt, email
+    else:
+        print "failed", email
