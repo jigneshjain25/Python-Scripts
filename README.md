@@ -46,6 +46,11 @@ Sudoku solver using backtracking
 <li><b>Techno Spammer</b>
 <br>
 This is a fun script I wrote to make bulk registrations on technovanza site as they didnt have any human verfication step while singing up :D
+</li><br>
+
+<li><b>ToDo Script</b>
+<br>
+Its a small python script I wrote for maintaining a simple todo list via terminal
 </li>
 
 </ul>
