@@ -53,4 +53,9 @@ This is a fun script I wrote to make bulk registrations on technovanza site as t
 Its a small python script I wrote for maintaining a simple todo list via terminal
 </li>
 
+<li><b>Typeform Selenium Script</b>
+<br>
+This is a basic selenium script I wrote to automate form submissions on typeform.com. It is slow though because it simulates a browser and all click/type events, fun to watch nevertheless :D
+</li>
+
 </ul>
