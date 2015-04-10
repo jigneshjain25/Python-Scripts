@@ -1,8 +1,6 @@
 Random Scripts
 ==============
 
-contains random scripts
-
 <ul>
 
 <li><b>Typeform Selenium Script</b>
