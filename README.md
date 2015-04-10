@@ -5,7 +5,7 @@ Random Scripts
 
 <li><b>Typeform Selenium Script</b>
 <br>
-This is a basic selenium script I wrote to automate form submissions on typeform.com. It is slow though because it simulates a browser and all click/type events, fun to watch nevertheless :D
+This is a basic selenium script I wrote to automate form submissions for a college survey on typeform.com. It is slow though because it simulates a browser and all click/type events, fun to watch nevertheless :D
 </li><br>
 
 <li>
